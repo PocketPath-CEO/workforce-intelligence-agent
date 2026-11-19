@@ -1,0 +1,1 @@
+The app creates leave_requests.json here when a request is submitted.\n
